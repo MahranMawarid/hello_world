@@ -1,2 +1,5 @@
 # hello_world
-Hanya Untuk Pemula
+
+Hi Humans!
+
+Mahran Disini.saya suka Node JS dan CoffeScript
